@@ -366,11 +366,13 @@ ul{
 	background-color: #ffffff;
 }
 .about-section{
-  padding-top: 20vh; 
+  padding-top: 20vh;   
+}
+.about-section h3{
   text-align: center;
 }
 .about-section img {
-  width: 40rem;
-  border-radius: 25px;
+  width: 80vh;
+  border-radius: 25px; 
   
 }
