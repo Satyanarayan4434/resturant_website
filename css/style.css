@@ -365,14 +365,12 @@ ul{
 	color: #24262b;
 	background-color: #ffffff;
 }
-.about-section{
-  padding-top: 20vh;   
-}
 .about-section h3{
+  padding-top: 20vh;
   text-align: center;
 }
 .about-section img {
+  margin-top: 15vh;
   width: 80vh;
-  border-radius: 25px; 
-  
+  border-radius: 20px;
 }
