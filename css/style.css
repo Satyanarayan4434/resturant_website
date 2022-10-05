@@ -2,11 +2,11 @@ body{
   font-family:Imprima;
   padding:0;
   margin:0;
-  background:rgb(236, 188, 188);
+  background:rgb(255, 255, 255);
 }
 
 :root {
-  --main-bg: hsl(205, 100%, 96%);
+  --main-bg: hsl(0, 0%, 100%);
   --lightblue: hsl(205, 90%, 88%);
   --darkblue: hsl(205, 78%, 60%);
   --grey: hsl(210, 22%, 49%);
