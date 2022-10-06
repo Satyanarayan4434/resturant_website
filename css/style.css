@@ -232,7 +232,6 @@ body, main {
 .btn {
   outline: none;
   border: none;
-  background: transparent;
   user-select: none;
 }
 
